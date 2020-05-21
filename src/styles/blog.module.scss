@@ -1,0 +1,16 @@
+.posts{
+    list-style-type: none;
+    margin: 0;
+}
+
+.post{
+    margin: 1rem 0;
+    .link {
+        text-decoration: none;
+        color: #2c2c2b;
+        
+    }
+    a {
+        background-color: #c6c6c7;
+    }
+}
