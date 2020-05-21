@@ -5,7 +5,7 @@ import Layout from "../components/layout";
 
 const AboutPage = () => {
     return(
-        <Layout>
+        <Layout headerText="About">
         <div>
     <h1>About </h1>
             
