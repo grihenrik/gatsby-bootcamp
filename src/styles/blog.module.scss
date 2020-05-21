@@ -7,10 +7,19 @@
     margin: 1rem 0;
     .link {
         text-decoration: none;
-        color: #2c2c2b;
+        
+        
+    }
+    .link:hover {
+        background-color: #b6b6b7;
         
     }
     a {
+        color: #2c2c2b;
         background-color: #c6c6c7;
+        display: block;
+        padding: 1rem;
+        
     }
+    
 }
