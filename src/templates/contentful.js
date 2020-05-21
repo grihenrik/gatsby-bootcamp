@@ -18,7 +18,7 @@ const Blog =(props)=>{
     }
 
     return (
-        <Layout>
+        <Layout headerText={props.data.contentfulBlogPost.title}>
             <h1>{props.data.contentfulBlogPost.title}</h1>
             <small>{props.data.contentfulBlogPost.publishedDate}</small>
             <img src={props.data.contentfulBlogPost.blogImage.file.url} alt={props.data.contentfulBlogPost.blogImage.title} width="300px"></img>
