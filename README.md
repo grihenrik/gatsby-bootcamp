@@ -11,6 +11,6 @@
 
 Here is the link to the video: https://www.youtube.com/watch?v=8t0vNu2fCCM
 
-
+<p>You can find a live version of the app here: http://gatsby.artseemarketing.com</p>
 
 <!-- AUTO-GENERATED-CONTENT:END -->
